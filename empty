@@ -1,0 +1,11 @@
+#include <
+int  saisie_taille()
+{
+    int x;
+    do
+    {
+        printf ("Donner la taille du tableau :  ");
+        scanf("%d", &x);
+    }while(!((x>1) && (x<=50)));
+    return x;
+    }

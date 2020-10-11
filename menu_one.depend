@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1543776631 source:c:\users\asus\desktop\forgers-win32-tutorial-source\source\menu_one\menu_one.rc
+	"resource.h"
+	"windows.h"
+
+1543776631 c:\users\asus\desktop\forgers-win32-tutorial-source\source\menu_one\resource.h
+
+1543776781 source:c:\users\asus\desktop\forgers-win32-tutorial-source\source\menu_one\menu_one.c
+	<windows.h>
+	"resource.h"
+	<stdio.h>
+
+1545074377 source:d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\menu_one.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"resource.h"
+
+1545073039 d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\resource.h
+
+1545073351 source:d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\menu_one.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1544901358 d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\entree_sortie.h
+
+1544903244 d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\prog.h
+	"entree_sortie.h"
+	"TP3.h"
+	<windows.h>
+	<stdio.h>
+
+1544901507 d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\tp3.h
+
+1545057912 source:d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\inverse.c
+	<stdio.h>
+	<stdlib.h>
+
+1545057687 d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\inverse.h
+
+1545058115 d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\inverse.c
+	<stdio.h>
+	<stdlib.h>
+
+1545065650 source:d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\empty.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1545065650 d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\empty.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1545065563 d:\9raya\polytechnique - 1ère\language c\miniprojet\mini-projet old\menu_one.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"empty.c"
+	"resource.h"
+
+1546679463 source:d:\9raya\polytechnique - 1ère\language c\miniprojet\miniprojetofficial\mini-projet-window\menu_one.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1546630011 d:\9raya\polytechnique - 1ère\language c\miniprojet\miniprojetofficial\mini-projet-window\resource.h
+
+1546680892 source:d:\9raya\polytechnique - 1ère\language c\miniprojet\miniprojetofficial\mini-projet-window\menu_one.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"resource.h"
+
+1556618520 source:d:\9raya\polytechnique - 1ère\les miniprojets - polytech\programmation c\newnew\mini-projet-window\menu_one.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"resource.h"
+	<stdlib.h>
+
+1556569259 d:\9raya\polytechnique - 1ère\les miniprojets - polytech\programmation c\newnew\mini-projet-window\resource.h
+
+1556569259 source:d:\9raya\polytechnique - 1ère\les miniprojets - polytech\programmation c\newnew\mini-projet-window\menu_one.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

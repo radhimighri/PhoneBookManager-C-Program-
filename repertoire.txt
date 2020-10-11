@@ -1,0 +1,14 @@
+|52525252|Hacze|Befdsf|22/7/1995|Ruee|Villaa|4055|dsq@gmail.com|
+|53542839|Ben amor|Hachem|22/7/1996|Rue ebn charaf|Sousse|4011|amor.hachem@poly.tn|
+|20359585|Mighri|Radhi|11/9/1985|Rueee|Villaa|6055|hachem@poly.tn|
+|53542848|Ben amor|Hachem|22/7/1996|Rue ebn charaf|Sousse|4011|amor.hachem@poly.tn|
+|20359530|Mighri|Radhi|11/9/1985|Rueee|Gafsa|6055|hachem@poly.tn|
+|53542811|Ben amor|Hachem|22/7/1996|Rue ebn charaf|Texas|4011|amor.hachem@poly.tn|
+|20359556|Mighri|Radhi|11/9/1985|Rueee|Mednine|6055|hachem@poly.tn|
+|53542831|Ben amor|Hachem|22/7/1996|Rue ebn charaf|Hammam|4011|amor.hachem@poly.tn|
+|20359582|Mighri|Radhi|11/9/1985|Rueee|Sousse|6055|hachem@poly.tn|
+|53542843|Ben amor|Hachem|22/7/1996|Rue ebn charaf|Sousse|4011|amor.hachem@poly.tn|
+|20359534|Mighri|Radhi|11/9/1985|Rueee|Sousse|6055|hachem@poly.tn|
+|53542815|Ben amor|Hachem|22/7/1996|Rue ebn charaf|Beja|4011|amor.hachem@poly.tn|
+|20359500|Mighri|Radhi|11/9/1985|Rueee|Tataouin|6055|hachem@poly.tn|
+|53542822|Ben amor|Hachem|22/7/1996|Rue ebn charaf|Sfax|4011|amor.hachem@poly.tn|
